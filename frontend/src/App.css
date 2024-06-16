@@ -1,0 +1,32 @@
+.skills {
+    min-height: calc(100vh - 78px) ; 
+    padding: 80px 24px 24px 24px;
+
+    .heading {
+        font-weight: bold;
+        font-size: 40px;
+        color: black;
+    }
+  }
+
+.contact {
+    background-color: #333;
+    color: white;
+    padding: 24px;
+    text-align: center;
+}
+
+.add-button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .add-button:hover {
+    background: #0056b3;
+  }
